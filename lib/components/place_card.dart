@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 
+import '/constants.dart';
 import '/models/TravelSpot.dart';
 import '/models/User.dart';
-import '/constants.dart';
 import '/size_config.dart';
 
 class PlaceCard extends StatelessWidget {
